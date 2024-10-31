@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: My Hello Dolly\n"
+"POT-Creation-Date: 2014-05-03 14:38+0800\n"
+"PO-Revision-Date: 2014-05-03 14:40+0800\n"
+"Last-Translator: wphigh.com <wphigh@hotmail.com>\n"
+"Language-Team: wphigh.com <wphigh@hotmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"Language: zh_Hans_CN\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: ../my-hello.php:81
+msgid "My Hello Dolly"
+msgstr "我的多莉"
+
+#: ../my-hello.php:93 ../my-hello.php:205
+msgid "Settings"
+msgstr "设置"
+
+#: ../my-hello.php:98
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: ../my-hello.php:99
+msgid "Clear"
+msgstr "清除"
+
+#: ../my-hello.php:125
+msgid "Custom"
+msgstr "自定义"
+
+#: ../my-hello.php:147
+msgid ""
+"Enter your favorite lyrics, quotes or any other words. These will display in "
+"the upper right of your admin screen on every page.<br>Each row write a "
+"sentence. Random show."
+msgstr ""
+"输入你喜欢的歌词、名言或其它任何文本。将会在后台的右上角显示。<br>一行一句。"
+"随机显示。"
+
+#: ../my-hello.php:160
+msgid "Will clear all stored data."
+msgstr "将会清除所有保存的数据。"
